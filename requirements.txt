@@ -1,0 +1,4 @@
+Hola, aqui van los requerimientos:
+pandas
+plotly
+numpy
